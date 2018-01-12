@@ -33,6 +33,9 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 + тут что-то
 - и тут
 * и даже здесь
+	+ тут дргурое
+	+ немного
+		* тут тоже отличается
 ___
 #### картинка
 ![alt text](http://3.bp.blogspot.com/-_DLc3qDxsNA/VenIznBsK7I/AAAAAAAAB0A/GHjI_97B364/s1600/TheFunk.jpg)
