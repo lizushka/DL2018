@@ -22,6 +22,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 [guide](https://daringfireball.net/projects/markdown/syntax)
 [help](https://help.github.com/categories/writing-on-github/)
 [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet "don't hesitate")
+[insights](https://github.com/mundimark/awesome-markdown)
 ---
 #### списки
 
