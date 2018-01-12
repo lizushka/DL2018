@@ -19,7 +19,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 ***
 #### гиперссылки
 
-[guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+[guide](https://daringfireball.net/projects/markdown/syntax)
 [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet "don't hesitate")
 ---
 #### списки
